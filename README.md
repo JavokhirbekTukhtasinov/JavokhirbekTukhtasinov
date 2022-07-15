@@ -7,7 +7,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 🌱 &nbsp;I'm on track for learning more about back-end and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
@@ -36,7 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Jason-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/kakbar](https://www.linkedin.com/in/javokhirbek-tukhtasinov-a988901a7/))
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Jason-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/javokhirbek-tukhtasinov-a988901a7](https://www.linkedin.com/in/javokhirbek-tukhtasinov-a988901a7/))
 
 ---
 
